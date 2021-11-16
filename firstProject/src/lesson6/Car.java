@@ -30,9 +30,4 @@ public class Car {
     void changeOwner(String newOwnerName) {
         ownerName = newOwnerName;
     }
-
-    //4. Inner class
-    private class Test {
-
-    }
 }
